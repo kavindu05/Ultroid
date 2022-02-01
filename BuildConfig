@@ -1,0 +1,5 @@
+source:
+  git: 
+    uri: "https://github.com/kavindu05/ultroid"
+    ref: "main"
+  contextDir: "app/dir"
